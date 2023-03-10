@@ -13,9 +13,13 @@ Once the code is loaded, simply open up the intergrated terminal and install con
 
 ## At a Glance
 
+![2023-03-09](https://user-images.githubusercontent.com/117941643/224235886-7f4920de-6a23-4f0c-8b49-ef72848bb875.png)
 
 
 ## Consists of
 Javascript, Inquirer, node.js, console.table, mysql2
 
 ### Links 
+https://github.com/JesusV545/Merlin-Managment-The-Employee-Tracking-Wizard
+
+https://drive.google.com/file/d/1HlGpTn-UhiUStOaKDd-SksrAMwHpETxw/view
