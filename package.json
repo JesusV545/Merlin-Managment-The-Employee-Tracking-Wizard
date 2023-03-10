@@ -1,4 +1,23 @@
 {
+  "name": "merlin-managment-the-employee-tracking-wizard",
+  "version": "1.0.0",
+  "description": "In this application, the user, or the employer, is able to view and manage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusV545/Merlin-Managment-The-Employee-Tracking-Wizard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusV545/Merlin-Managment-The-Employee-Tracking-Wizard/issues"
+  },
+  "homepage": "https://github.com/JesusV545/Merlin-Managment-The-Employee-Tracking-Wizard#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.18.2",
